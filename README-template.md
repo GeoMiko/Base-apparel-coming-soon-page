@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://github.com/GeoMiko/Base-apparel-coming-soon-page)
+- Live Site URL: (https://geomiko.github.io/Base-apparel-coming-soon-page/)
 
 ## My process
 
